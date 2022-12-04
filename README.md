@@ -21,11 +21,11 @@ After importing the file created previously, we will **scale and split** our dat
 
 Then, we will build 6 different supervised ML models (Logistic Regression, Support Vector Machines, Decision Trees, Random Forest, Naive Bayes and K-Nearest Neighbors).
 
-We will evaluate them by their **accuracy** and **f1-score**. 
+We will evaluate them by their **recall**. 
 
-We ended up choosing Naive Bayes with ``0.8`` f1-score and ``0.857143`` accuracy.
+We ended up choosing Naive Bayes Model with ``0.923`` recall.
 
-We will also build a DL model with 3 hidden layers. The model has ``0.92`` f1-score and ``0.8333`` accuracy.
+We will also build a DL model with 3 hidden layers. The model has ``0.92`` f1-score.
 
 We decided to go with the Naive Bayes because we discovered that the DL Model is overfitting.
 
@@ -34,9 +34,10 @@ We decided to go with the Naive Bayes because we discovered that the DL Model is
 
 We will do the same steps as for the first model.
 
-Here we decided to use the Decision Tree Model with  ``0.8`` f1-score and ``0.642857`` accuracy.
+Here we decided to use the Random Forest Model with  ``0.928`` recall.
 
-We will also build a DL model with 3 hidden layers. The model has ``0.9289`` f1-score and ``0.7619`` accuracy.
+We will also build a DL model with 3 hidden layers. The model has ``0.9289`` f1-score.
 
 ## 4. Conclusion
 
+We will be using the Naive Bayes Model as the first Model then we will be using the Random Forest Model as our second model.
