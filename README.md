@@ -24,7 +24,7 @@ After importing the file created previously, we will **scale and split** our dat
 
 Then, we will build 6 different supervised ML models (Logistic Regression, Support Vector Machines, Decision Trees, Random Forest, Naive Bayes and K-Nearest Neighbors).
 
-We will evaluate them by their **recall**. 
+We will evaluate them by their **recall** because we want to correctly classify if a user may have a mental health issue.
 
 We ended up choosing Naive Bayes Model with ``0.923`` recall.
 
