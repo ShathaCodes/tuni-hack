@@ -45,4 +45,5 @@ We will also build a DL model with 3 hidden layers. The model has ``0.9289`` f1-
 
 We will be using the Naive Bayes Model as the first Model then we will be using the Random Forest Model as our second model.
 
+![results](https://raw.githubusercontent.com/ShathaCodes/tuni-hack/main/results.png)
 
