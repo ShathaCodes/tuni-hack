@@ -1,5 +1,8 @@
 # TuniHack
 
+We will be using the following workflow:
+
+![workflow](https://raw.githubusercontent.com/ShathaCodes/tuni-hack/main/workflow.png)
 
 ## 1. Prepare, clean and encode Data
 
@@ -41,3 +44,5 @@ We will also build a DL model with 3 hidden layers. The model has ``0.9289`` f1-
 ## 4. Conclusion
 
 We will be using the Naive Bayes Model as the first Model then we will be using the Random Forest Model as our second model.
+
+
