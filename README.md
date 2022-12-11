@@ -1,4 +1,14 @@
-# TuniHack
+# TuniHack : a hackathon for Artificial intelligence in healthcare
+
+## Solution : DailyMental
+
+Daily Mental consists of an AI-powered application that will help you understand your feelings and thoughts but more importantly alert you in case of a serious issue to seek medical help. 
+
+With only a couple of seconds of your time each day, your mind will be put at ease knowing that our platform is analyzing your moods and behaviors and keeping track of any minor or major setbacks.
+
+---
+
+## AI Part
 
 We will be using the following workflow:
 
